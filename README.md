@@ -35,9 +35,9 @@ Key principles:
 - Reproducibility  
 - Analytics-first modeling  
 
----
-
 ## 📁 Project Structure
+
+---
 api-to-analytics-etl-showcase/
 │
 ├── README.md
@@ -50,7 +50,6 @@ api-to-analytics-etl-showcase/
 ├── storage/
 │ └── load_to_db.py
 └── requirements.txt
-
 ---
 
 ## ETL Flow Description
