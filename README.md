@@ -5,7 +5,7 @@ This project is designed as a **Data Engineering portfolio** piece, focused on a
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 Simulate a real-world scenario where business data is:
 1. Extracted from an external API  
@@ -17,7 +17,7 @@ This repository demonstrates how to move from **raw API data → structured anal
 
 ---
 
-## 🧱 Architecture Overview
+## Architecture Overview
 [ External API ]
 ↓
 [ Ingestion Layer ]
@@ -53,7 +53,7 @@ api-to-analytics-etl-showcase/
 
 ---
 
-## 🔄 ETL Flow Description
+## ETL Flow Description
 
 ### 1. Extraction (Ingestion)
 - Connects to a public REST API
@@ -86,7 +86,7 @@ storage/load_to_db.py
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python 3.10+**
 - **Pandas / NumPy**
@@ -102,7 +102,7 @@ This structure mirrors production systems that later scale to:
 
 ---
 
-## 📊 BI & Analytics Usage
+## BI & Analytics Usage
 
 The final dataset is suitable for:
 - Power BI  
@@ -118,7 +118,7 @@ Example KPIs that can be derived:
 
 ---
 
-## 👨‍💻 What This Project Demonstrates
+## What This Project Demonstrates
 
 This repository validates skills for:
 
@@ -131,7 +131,7 @@ This repository validates skills for:
 
 ---
 
-## 🚀 How to Run (Local)
+## How to Run (Local)
 
 1. Install dependencies:
 ```bash
