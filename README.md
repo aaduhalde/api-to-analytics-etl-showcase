@@ -39,8 +39,8 @@ Key principles:
 ---
 
 ## 📁 Project Structure
-```text
 
+```text
 api-to-analytics-etl-showcase/
 │
 ├── README.md
